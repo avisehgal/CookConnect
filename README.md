@@ -10,6 +10,3 @@ The Neo4J can help with recommendations.
 
 -React Native possibly?
 
-I am a fucking loser - not.
-
-Another green box
